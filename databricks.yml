@@ -1,0 +1,8 @@
+bundle:
+  name: employee-data-platform
+
+targets:
+  dev:
+    default: true
+    workspace:
+      host: https://dbc-2c772db5-6424.cloud.databricks.com

@@ -1,0 +1,6 @@
+pyspark
+databricks-sdk
+databricks-connect
+dbt-databricks
+requests
+python-dotenv
